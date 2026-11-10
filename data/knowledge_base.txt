@@ -1,0 +1,80 @@
+
+DOCUMENT 1: Database Connection Troubleshooting
+
+Problem:
+An application cannot connect to its database server.
+
+Possible Causes:
+- Database server is stopped.
+- Incorrect hostname or port number.
+- Invalid username or password.
+- Network connectivity problems.
+- Firewall blocking the database connection.
+
+Troubleshooting Steps:
+1. Check whether the database server is running.
+2. Verify the hostname and port number.
+3. Verify the database username and password.
+4. Check network connectivity.
+5. Check firewall settings.
+6. Review database server logs for connection errors.
+
+
+DOCUMENT 2: Application Performance Troubleshooting
+
+Problem:
+An application responds slowly or takes too long to load.
+
+Possible Causes:
+- High CPU usage.
+- High memory consumption.
+- Slow database queries.
+- Network latency.
+- Unnecessary API requests.
+
+Troubleshooting Steps:
+1. Check CPU and memory usage.
+2. Identify slow database queries.
+3. Check network connectivity and latency.
+4. Review application performance logs.
+5. Identify unnecessary API requests.
+
+
+DOCUMENT 3: Memory Usage Troubleshooting
+
+Problem:
+An application consumes excessive memory.
+
+Possible Causes:
+- Memory leaks.
+- Too many background processes.
+- Large data processing operations.
+- Inefficient application code.
+
+Troubleshooting Steps:
+1. Open Task Manager and check memory usage.
+2. Identify processes consuming excessive memory.
+3. Close unnecessary applications.
+4. Check application logs for memory-related errors.
+5. Monitor memory consumption over time.
+
+
+DOCUMENT 4: Application Startup Failure
+
+Problem:
+An application fails to start or crashes during startup.
+
+Possible Causes:
+- Missing dependencies.
+- Incorrect configuration.
+- Port conflicts.
+- Insufficient system permissions.
+- Missing environment variables.
+
+Troubleshooting Steps:
+1. Review application startup logs.
+2. Verify required dependencies are installed.
+3. Check configuration files.
+4. Check whether another process is using the required port.
+5. Verify application permissions.
+
