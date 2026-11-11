@@ -124,6 +124,20 @@ Frontend URL:
 - Add more technical knowledge-base documents.
 - Deploy the application to a cloud platform.
 
+## Project Screenshots
+
+### 1. IT Monitoring Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Log Analyzer
+![Log Analyzer](screenshots/log-analyzer.png)
+
+### 3. Analysis History
+![Analysis History](screenshots/analysis-history.png)
+
+### 4. AI Assistant
+![AI Assistant](screenshots/ai-assistant.png)
+
 ## Author
 
 Developed as a personal project to explore AI-powered IT support, RAG, backend API development, and interactive dashboards.
